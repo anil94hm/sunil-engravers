@@ -1,0 +1,16 @@
+{
+  "name": "sunil-engravers-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sunil-engravers-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "netlify-cli": "^23.11.1"
+  }
+}

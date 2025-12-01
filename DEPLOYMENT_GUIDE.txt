@@ -1,0 +1,128 @@
+====================================================================
+EASY DEPLOYMENT GUIDE - SUNIL ENGRAVERS WEBSITE
+====================================================================
+
+Your website is ready to go live! Follow these simple steps:
+
+====================================================================
+METHOD 1: NETLIFY WEB INTERFACE (EASIEST - 5 MINUTES)
+====================================================================
+
+STEP 1: Go to Netlify
+----------------------
+Open your browser and go to: https://app.netlify.com
+
+You're already logged in since we did that earlier!
+
+STEP 2: Deploy Your Site
+-------------------------
+1. Click on "Add new site" button
+2. Choose "Deploy manually"
+3. DRAG AND DROP this entire folder:
+   C:\Users\Anil Halebeedu\sunil-engravers-website
+
+   (Just drag the folder into the upload area on the webpage)
+
+STEP 3: Get Your Link!
+----------------------
+- Netlify will upload and deploy your site in 10-20 seconds
+- You'll get a link like: https://random-name-12345.netlify.app
+- Click "Site settings" > "Change site name" to customize it
+- Change it to: sunil-engravers (or whatever you prefer)
+- Your final link will be: https://sunil-engravers.netlify.app
+
+STEP 4: Share with Customers
+-----------------------------
+Share your link with customers:
+https://sunil-engravers.netlify.app
+
+They can view your website from any device!
+
+====================================================================
+METHOD 2: ALTERNATIVE FREE OPTIONS
+====================================================================
+
+OPTION A: Vercel (Similar to Netlify)
+--------------------------------------
+1. Go to: https://vercel.com
+2. Sign up with Google/GitHub
+3. Click "Add New" > "Project"
+4. Drag and drop the folder
+5. Get your link!
+
+OPTION B: GitHub Pages (If you have GitHub)
+--------------------------------------------
+1. Create a GitHub account at https://github.com
+2. Create a new repository named: sunil-engravers-website
+3. Upload all files from:
+   C:\Users\Anil Halebeedu\sunil-engravers-website
+4. Go to Settings > Pages
+5. Enable GitHub Pages
+6. Your link: https://yourusername.github.io/sunil-engravers-website
+
+====================================================================
+UPDATING YOUR WEBSITE LATER
+====================================================================
+
+To update your website after making changes:
+
+FOR NETLIFY:
+1. Go to https://app.netlify.com
+2. Click on your site
+3. Click "Deploys" tab
+4. Drag and drop the updated folder again
+5. Your changes will go live immediately!
+
+====================================================================
+ADDING CUSTOM DOMAIN (OPTIONAL)
+====================================================================
+
+Want your own domain like www.sunilengravers.com?
+
+1. Buy a domain from:
+   - GoDaddy.com (₹399/year for .com)
+   - Hostinger.in (₹599/year)
+   - BigRock.in (₹299/year for .in domain)
+
+2. In Netlify:
+   - Go to Site settings > Domain management
+   - Click "Add custom domain"
+   - Enter your domain name
+   - Follow the DNS setup instructions
+
+3. Wait 24-48 hours for DNS to propagate
+4. Your site will be live on your custom domain!
+
+====================================================================
+YOUR WEBSITE FILES ARE IN:
+====================================================================
+C:\Users\Anil Halebeedu\sunil-engravers-website
+
+Files included:
+- index.html (main webpage)
+- sunil-engravers-style.css (styling)
+- sunil-engravers-script.js (interactive features)
+- images/ folder (for your jewelry photos)
+
+====================================================================
+NEED HELP?
+====================================================================
+
+If you have any issues:
+1. Make sure all files are in the folder
+2. Try the Netlify drag-and-drop method first (easiest!)
+3. Your website works perfectly - just needs to be uploaded!
+
+====================================================================
+QUICK START (TL;DR)
+====================================================================
+
+1. Open: https://app.netlify.com
+2. Click: "Add new site" > "Deploy manually"
+3. Drag folder: C:\Users\Anil Halebeedu\sunil-engravers-website
+4. Wait 10 seconds
+5. Get your link and share it!
+
+That's it! Your jewelry workshop website is ready to go live!
+
+====================================================================

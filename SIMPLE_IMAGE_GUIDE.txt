@@ -1,0 +1,138 @@
+====================================================================
+SUPER EASY IMAGE UPLOAD GUIDE - SUNIL ENGRAVERS
+====================================================================
+
+NO CODING NEEDED! Just follow these 3 simple steps:
+
+====================================================================
+STEP 1: PREPARE YOUR JEWELRY PHOTOS
+====================================================================
+
+1. Take clear photos of your jewelry work using your phone/camera
+2. Transfer the photos to your computer
+3. You need 6 photos total (you can add more later)
+
+====================================================================
+STEP 2: RENAME YOUR PHOTOS
+====================================================================
+
+Rename your photos to these EXACT names:
+- 1.jpg
+- 2.jpg
+- 3.jpg
+- 4.jpg
+- 5.jpg
+- 6.jpg
+
+IMPORTANT:
+- Names must be exactly as shown (lowercase numbers)
+- File extension can be .jpg, .jpeg, or .png
+- Make sure there are no spaces in the names
+
+Example:
+- ✅ CORRECT: 1.jpg
+- ✅ CORRECT: 1.png
+- ❌ WRONG: photo1.jpg
+- ❌ WRONG: 1 .jpg (has space)
+- ❌ WRONG: IMG_1.jpg
+
+====================================================================
+STEP 3: COPY PHOTOS TO THE IMAGES FOLDER
+====================================================================
+
+1. Open this folder on your computer:
+   C:\Users\Anil Halebeedu\sunil-engravers-website\images
+
+2. Copy your 6 renamed photos into this folder
+
+3. Your images folder should now have:
+   - 1.jpg
+   - 2.jpg
+   - 3.jpg
+   - 4.jpg
+   - 5.jpg
+   - 6.jpg
+
+====================================================================
+STEP 4: VIEW YOUR WEBSITE
+====================================================================
+
+1. Open the file: sunil-engravers-website\index.html
+   (Double-click it to open in your browser)
+
+2. Your jewelry photos should now be visible in the gallery!
+
+3. If you don't see them:
+   - Press Ctrl + F5 to refresh the page
+   - Check that image names are exactly: 1.jpg, 2.jpg, etc.
+   - Make sure images are in the correct folder
+
+====================================================================
+HOW IT WORKS (AUTOMATIC!)
+====================================================================
+
+✅ If image exists → Website shows your photo
+✅ If image missing → Website shows placeholder box
+
+This means:
+- You can add photos one at a time
+- You can replace photos anytime (just overwrite the files)
+- No need to edit any code!
+
+====================================================================
+WHAT EACH PHOTO REPRESENTS
+====================================================================
+
+1.jpg = Custom Ring Engraving
+2.jpg = Gold Ring Collection
+3.jpg = Wedding Band Engraving
+4.jpg = Personalized Jewelry
+5.jpg = Gold Jewelry Design
+6.jpg = Name Engraved Rings
+
+====================================================================
+TO UPDATE PHOTOS LATER
+====================================================================
+
+1. Replace the image file with a new one (same name)
+2. Refresh your browser (Ctrl + F5)
+3. The new photo will appear!
+
+====================================================================
+TO DEPLOY TO NETLIFY WITH YOUR PHOTOS
+====================================================================
+
+1. Make sure all your photos are in the images folder
+2. Go to https://app.netlify.com
+3. Drag the entire "sunil-engravers-website" folder
+4. Your website goes live with all your photos!
+
+====================================================================
+TROUBLESHOOTING
+====================================================================
+
+Photos not showing?
+→ Check file names are exactly: 1.jpg, 2.jpg, etc.
+→ Check files are in: sunil-engravers-website\images\
+→ Press Ctrl + F5 to refresh browser
+
+Photos look blurry?
+→ Use higher quality images (at least 800x800 pixels)
+→ Make sure photos are not too compressed
+
+Want to change what photo represents what?
+→ Just rename your files accordingly
+→ Example: Your best ring photo should be 1.jpg
+
+====================================================================
+THAT'S IT!
+====================================================================
+
+Super simple, right? Just:
+1. Rename photos to 1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg, 6.jpg
+2. Put them in the "images" folder
+3. Open index.html to see them!
+
+No coding, no HTML editing required!
+
+====================================================================
